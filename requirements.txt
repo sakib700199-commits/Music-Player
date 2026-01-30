@@ -1,6 +1,10 @@
 pyrogram
 tgcrypto
 py-tgcalls==2.2.10
+flask
+pyrogram
+tgcrypto
+py-tgcalls==2.2.10
 python-dotenv
 yt-dlp
 youtube-search-python
